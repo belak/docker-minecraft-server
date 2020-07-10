@@ -1,0 +1,9 @@
+*.jar
+*.txt
+*.json
+*.properties
+world
+mods
+logs
+.mixin.out
+.fabric-installed-*
