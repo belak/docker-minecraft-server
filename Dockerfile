@@ -1,4 +1,4 @@
-FROM openjdk:8u252-jre-buster
+FROM openjdk:8u212-jre-slim-buster
 
 ARG RCON_CLI_VERSION=1.4.8
 ARG MC_MONITOR_VERSION=0.1.7
